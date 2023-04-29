@@ -184,7 +184,7 @@ The questions and answers are only available in English.
 Here are the results of the study I reproduced from training and testing the mdoels.
 
 |                             | Original Paper Accuracy   | Our STudy Accuracy |
-| -----                       | ------ | ----- | ---- |
+| -----                       | ------ | ----- |
 | BERT | 37% |  36.8% |
 | BioBERT       | 42.3% |  41.9% |
 | SciBERT    | 43.6%  |  42.1% |

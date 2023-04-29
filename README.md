@@ -77,7 +77,7 @@ Similar questions from train , test and dev set were removed based on similarity
 | Max Ans tokens | 38 | 21 | 25 |
 
 <p align="center">
-  <img width="500" src="./Extra/json_to_csv_data.png">
+  <img width="750" src="./Extra/json_to_csv_data.png">
 </p>
 
 ## Experiment code
@@ -103,7 +103,7 @@ If the above command gives error while building wheel for any of the packages, y
 `pip cache purge`
 
 <p align="center">
-  <img width="500" src="./Extra/wandb_dashboard.png">
+  <img width="750" src="./Extra/wandb_dashboard.png">
 </p>
 
 
@@ -126,7 +126,7 @@ Initially it will run the script for "train.json" file. Later you can change the
 ` python3 train.py --model bert-base-uncased --dataset_folder_name "/content/medmcqa_data/" `
 
 <p align="center">
-  <img width="500" src="./Extra/running_model.png">
+  <img width="750" src="./Extra/running_model.png">
 </p>
 
 - The code is integrated with Weights and Biases (https://wandb.ai/home)
@@ -135,7 +135,7 @@ User may be asked to input wandb API credentials.
 The files related to it will be stored in the following folder -
 `wandb` 
 <p align="center">
-  <img width="500" src="./Extra/wandb_dashboard.png">
+  <img width="750" src="./Extra/wandb_dashboard.png">
 </p>
 
 ## Supported Tasks and Leaderboards
@@ -187,5 +187,5 @@ To perform experimentations beyond the paper and standard hyper-parameters, I tr
 In the `/confs/args.py` file you can find the parameters which we tweaked during the experiments.
 
 <p align="center">
-  <img width="500" src="./Extra/hyperparameters.png">
+  <img width="750" src="./Extra/hyperparameters.png">
 </p>

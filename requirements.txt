@@ -1,0 +1,8 @@
+numpy==1.19.4
+pandas==1.1.3
+torch==2.0.0
+wandb==0.10.12
+transformers
+pytorch-lightning==1.0.8
+protobuf==3.20.0
+

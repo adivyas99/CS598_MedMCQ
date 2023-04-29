@@ -181,7 +181,7 @@ The questions and answers are only available in English.
 
 ## Results 
 
-Here are the results of the study I reproduced from training and testing the mdoels.
+Here are the results of the study I reproduced from training and testing the models.
 
 |                             | Original Paper Accuracy   | Our STudy Accuracy |
 | -----                       | ------ | ----- |

@@ -179,6 +179,17 @@ The questions and answers are only available in English.
 - `subject_name` : Medical Subject name of the particular question
 - `topic_name` : Medical topic name from the particular subjects
 
+## Results 
+
+Here are the results of the study I reproduced from training and testing the mdoels.
+
+|                             | Original Paper Accuracy   | Our STudy Accuracy |
+| -----                       | ------ | ----- | ---- |
+| BERT | 37% |  36.8% |
+| BioBERT       | 42.3% |  41.9% |
+| SciBERT    | 43.6%  |  42.1% |
+| PubMedBERT | 47% | 46.2% |
+
 
 ## Beyond reproducing the paper results
 
@@ -189,3 +200,4 @@ In the `/confs/args.py` file you can find the parameters which we tweaked during
 <p align="center">
   <img width="750" src="./Extra/hyperparameters.png">
 </p>
+

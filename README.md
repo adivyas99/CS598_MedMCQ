@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for reproducing the experiments presented in the paper "MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering" by Pal, Ankit and Umapathi, Logesh Kumar and Sankarasubbu, Malaikannan (2022). The paper introduces the MedMCQA dataset, a collection of 21,000 medical multiple-choice questions aimed at evaluating the performance of various AI models in the medical question-answering domain. The original study evaluates several baseline models, including BERT-based models and domain-specific models like BioBERT, SciBERT, and PubMedBERT.
 
-## Credit to Authors:
+## Credit to Authors
 
 All credit for the original research, dataset, and methodology goes to the authors of the paper - Pal, Ankit and Umapathi, Logesh Kumar and Sankarasubbu, Malaikannan. This repository is an independent effort to reproduce the experiments conducted in their study, and any deviations or modifications from the original work are solely the responsibility of the creators of this repository. We encourage users to refer to the original paper and the authors' code repository for the most accurate and up-to-date information on the MedMCQA dataset and the experiments conducted.
 

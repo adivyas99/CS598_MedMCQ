@@ -183,7 +183,7 @@ The questions and answers are only available in English.
 
 Here are the results of the study I reproduced from training and testing the models.
 
-|                             | Original Paper Accuracy   | Our STudy Accuracy |
+|                             | Original Paper Accuracy   | Our Study Accuracy |
 | -----                       | ------ | ----- |
 | BERT | 37% |  36.8% |
 | BioBERT       | 42.3% |  41.9% |
